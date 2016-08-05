@@ -7,16 +7,16 @@ import numpy as np
 import math
 
 
-#CSCE 310
-#cbourke@cse.unl.edu
+# CSCE 310
+# yuleinku@gmail.com
 #
-#This python script parses a file given as
-#a command line argument that represents an
-#undirected graph as per the formatting specified
-#in assignment 1.  The reprsentation is an
+# This python script parses a file given as
+# a command line argument that represents an
+# undirected graph as per the formatting specified
+# in assignment 1.  The reprsentation is an
 # n x n 0-1 integer adjacency matrix
 #
-#improvements welcome
+# Improvements Welcome
 
 def getMatrix(file_name):
     i = -1;
