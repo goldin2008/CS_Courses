@@ -1,0 +1,8 @@
+The original input sequence: 
+BBABCBCAB
+
+TLength Of longest palindromic sequence: 
+7.0
+
+Longest palindromic sequence: 
+BACBCAB

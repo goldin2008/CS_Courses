@@ -1,0 +1,8 @@
+The original input sequence: 
+kn2;eoifnawdkvn;asldin;oawkndv;lkansdoinval;wekn;oain
+
+TLength Of longest palindromic sequence: 
+21.0
+
+Longest palindromic sequence: 
+nia;nk;lansnal;kn;ain
