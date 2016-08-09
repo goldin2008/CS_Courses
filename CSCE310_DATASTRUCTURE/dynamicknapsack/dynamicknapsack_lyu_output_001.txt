@@ -1,0 +1,19 @@
+Resulting table: 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10]
+[0, 0, 4, 10, 10, 14, 14, 14, 14, 14, 14]
+[0, 0, 4, 10, 10, 14, 14, 14, 14, 14, 17]
+[0, 0, 4, 10, 10, 14, 14, 14, 14, 18, 18]
+[0, 0, 4, 10, 10, 14, 14, 14, 14, 18, 18]
+
+Maximum Capacity:  10
+
+Optimal KnapSack Solution:  [1, 2, 4]
+
+Optimal Values:  [10, 4, 4]
+
+Optimal Weight:  [3, 2, 4]
+
+Optimal Value Taken :  18
+
+Optimal Weight Taken:  9
